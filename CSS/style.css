@@ -82,8 +82,6 @@ body {
     }
 }
 
-.menu__item {
-}
 .menu__item:not(:last-child) {
     margin: 0px 21px 0px 0px;
 }
@@ -102,17 +100,17 @@ body {
 .page {
     flex: 1 1 auto;
 }
-.page__main-block {
-}
+/* .page__main-block {
+} */
 .page__services {
     position: relative;
     z-index: 2;
     margin: -111px 0px 0px 0px;
 }
-.page__advantages {
+/* .page__advantages {
 }
 .page__practice {
-}
+} */
 /* ------------------------------------------Header----------------------------- */
 .header-block {
     text-align: center;
@@ -144,19 +142,19 @@ body {
 }
 
 /* ---------------------------Footer------------------------------------------ */
-.footer {
+/* .footer {
 
-}
+} */
 
 /* ---------------------------Main Block------------------------------------------ */
 
 .main-block {
     position: relative;
 }
-.main-block__container {
-}
-._container {
-}
+/* .main-block__container {
+} */
+/* ._container {
+} */
 .main-block_body {
     padding: 184px 0px 191px 0px;
     position: relative;
@@ -259,15 +257,15 @@ body {
     }
 }
 /* -------------------------------------Services-------------------------------------------- */
-.services {
-}
-.services__container {
+/* .services {
+} */
+/* .services__container {
 }
 ._container {
 }
 .services__body {
 
-}
+} */
 @media (min-width: 670px) {
     .services__body {
         display: flex;
@@ -310,9 +308,9 @@ body {
     }
 }
 
-.item-service {
+/* .item-service {
     
-}
+} */
 .item-service_green {
     background-color: #0d5c63;
 }
@@ -325,8 +323,8 @@ body {
 .item-service > *:not(:last-child) {
     margin: 0px 0px 10px 0px;
 }
-.item-service__icon {
-}
+/* .item-service__icon {
+} */
 .item-service__title {
     font-weight: 700;
     letter-spacing: 0.1px;
@@ -354,8 +352,8 @@ body {
         padding: 30px 0px;
     }
 }
-.advantage__container {
-}
+/* .advantage__container {
+} */
 
 .advantages__header {
     margin: 0px 0px 50px 0px;
@@ -433,8 +431,8 @@ body {
     }
 }
 
-.practice__container {
-}
+/* .practice__container {
+} */
 
 .practice__header {
     margin: 0px 0px 45px 0px;
@@ -465,9 +463,9 @@ body {
         flex: 0 1 100%;
     }
 }
-.practice__item {
+/* .practice__item {
     
-}
+} */
 .item-practice {
     background-color: #fff;
     height: 100%;
